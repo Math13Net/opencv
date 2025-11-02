@@ -1,4 +1,12 @@
+---
+title: OpenCV • Math13Net
+description: Réalisations et supports (OpenCV, YOLO, IA/ML/DL)
+layout: default
+---
+
 # opencv
+
+> Réalisations sous OpenCV, YOLO et IA/ML/DL.
 
 ---
 
@@ -16,22 +24,34 @@ Ce document est protégé sous licence **Creative Commons BY-NC-ND 4.0 Internati
 ---
 
 ## OPENCV
-#### []() 
-#### []()
-#### []()
+*(à compléter)*
+
+- [Ajouter un notebook]()
 
 ## YOLO
-#### []() 
-#### []()
-#### []()
+*(à compléter)*
 
-## autres IA / ML / DL / Python
-#### 1. [Comparatif Empreince CO2 entre RNN et CNN](https://github.com/Math13Net/SNT/blob/master/empreinte_carbone_RNN_vs_CNN.ipynb) 
-#### 2. [Qu'est-ce qu'un classificateur linéaire ?](https://github.com/Math13Net/opencv/blob/main/IA_01.ipynb)
-#### 3. [Fonctions d'activation - Cours](https://github.com/Math13Net/opencv/blob/main/fonctions_activation_v2.ipynb)
-#### 4. [Fonctions d'activation - Pratique](https://github.com/Math13Net/opencv/blob/main/fonctions_activation_pratique.ipynb)
+- [Ajouter un notebook]()
 
+## Autres IA / ML / DL / Python
 
+1. **Comparatif Empreinte CO₂ RNN vs CNN**  
+   👉 [Voir sur GitHub](https://github.com/Math13Net/SNT/blob/master/empreinte_carbone_RNN_vs_CNN.ipynb) ·
+   👉 [Voir en ligne (nbviewer)](https://nbviewer.org/github/Math13Net/SNT/blob/master/empreinte_carbone_RNN_vs_CNN.ipynb)
 
+2. **Qu'est-ce qu'un classificateur linéaire ?**  
+   👉 [Voir sur GitHub](https://github.com/Math13Net/opencv/blob/main/IA_01.ipynb) ·
+   👉 [Voir en ligne (nbviewer)](https://nbviewer.org/github/Math13Net/opencv/blob/main/IA_01.ipynb)
 
-realisation sous opencv
+3. **Fonctions d'activation — Cours**  
+   👉 [Voir sur GitHub](https://github.com/Math13Net/opencv/blob/main/fonctions_activation_v2.ipynb) ·
+   👉 [Voir en ligne (nbviewer)](https://nbviewer.org/github/Math13Net/opencv/blob/main/fonctions_activation_v2.ipynb)
+
+4. **Fonctions d'activation — Pratique**  
+   👉 [Voir sur GitHub](https://github.com/Math13Net/opencv/blob/main/fonctions_activation_pratique.ipynb) ·
+   👉 [Voir en ligne (nbviewer)](https://nbviewer.org/github/Math13Net/opencv/blob/main/fonctions_activation_pratique.ipynb)
+
+---
+
+*Réalisation sous OpenCV.*
+
