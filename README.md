@@ -15,5 +15,23 @@ Ce document est protégé sous licence **Creative Commons BY-NC-ND 4.0 Internati
 
 ---
 
+## OPENCV
+#### []() 
+#### []()
+#### []()
+
+## YOLO
+#### []() 
+#### []()
+#### []()
+
+## autres IA / ML / DL / Python
+#### [Comparatif Empreince CO2 entre RNN et CNN](https://github.com/Math13Net/SNT/blob/master/empreinte_carbone_RNN_vs_CNN.ipynb) 
+#### [Qu'est-ce qu'un classificateur linéaire ?](https://github.com/Math13Net/opencv/blob/main/IA_01.ipynb)
+#### [Fonctions d'activation - Cours](https://github.com/Math13Net/opencv/blob/main/fonctions_activation_v2.ipynb)
+#### [Fonctions d'activation - Pratique](https://github.com/Math13Net/opencv/blob/main/fonctions_activation_pratique.ipynb)
+
+
+
 
 realisation sous opencv
