@@ -25,9 +25,9 @@ Ce document est protégé sous licence **Creative Commons BY-NC-ND 4.0 Internati
 
 ## OPENCV
 1. **Activité Filtres**  
-   👉 [Filtres sur Image](https://github.com/Math13Net/opencv/blob/main/Filtre_partie_1.ipynb)
-   👉 [Filtres sur WebCam](https://github.com/Math13Net/opencv/blob/main/Filtre_partie_2.ipynb)
-   👉 [Filtres - Mini Projet](https://github.com/Math13Net/opencv/blob/main/Filtre_partie_3.ipynb)
+   👉 [Filtres sur Image](https://github.com/Math13Net/opencv/blob/main/Filtre_partie_1.ipynb)  
+   👉 [Filtres sur WebCam](https://github.com/Math13Net/opencv/blob/main/Filtre_partie_2.ipynb)  
+   👉 [Filtres - Mini Projet](https://github.com/Math13Net/opencv/blob/main/Filtre_partie_3.ipynb)  
 
 - [Ajouter un notebook]()
 
