@@ -32,7 +32,8 @@ Ce document est protégé sous licence **Creative Commons BY-NC-ND 4.0 Internati
 - [Ajouter un notebook]()
 
 ## YOLO
-*(à compléter)*
+1. **XAI** [Fiche installation](https://github.com/Math13Net/opencv/blob/main/Installation_YOLOv8_XAI.pdf) - [XAI](https://github.com/Math13Net/opencv/blob/main/XAI_Yolov8n.ipynb)
+2. 
 
 - [Ajouter un notebook]()
 
