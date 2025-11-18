@@ -33,7 +33,7 @@ Ce document est protégé sous licence **Creative Commons BY-NC-ND 4.0 Internati
    👉 [Fiche Installation](https://github.com/Math13Net/opencv/blob/main/%F0%9F%93%98%20XAI.pdf)  
    👉 [XAI 1](https://github.com/Math13Net/opencv/blob/main/NBJ1_XAI.ipynb)  
    👉 [XAI 2](https://github.com/Math13Net/opencv/blob/main/NBJ2_XAI.ipynb)  
-   👉 [XAI 3](https://github.com/Math13Net/opencv/blob/main/NBJ3_XAI.ipynb)
+   👉 [XAI 3](https://github.com/Math13Net/opencv/blob/main/NBJ3_XAI.ipynb)  
    👉 [XAI 4](https://github.com/Math13Net/opencv/blob/main/NBJ4_XAI.ipynb)  
    
 - [Ajouter un notebook]()
