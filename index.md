@@ -54,7 +54,7 @@ Ce document est protégé sous licence **Creative Commons BY-NC-ND 4.0 Internati
 
 4. [Fonctions d'activation — Pratique](https://github/Math13Net/opencv/blob/main/fonctions_activation_pratique.ipynb)
 
-
+5. [Différence entre Accuracy et Loss sur un CNN](https://github.com/Math13Net/opencv/blob/main/NBJ_Accuracy_Loss.ipynb)
    
 
 ---
