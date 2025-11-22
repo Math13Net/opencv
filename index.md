@@ -36,7 +36,6 @@ Ce document est protégé sous licence **Creative Commons BY-NC-ND 4.0 Internati
    👉 [XAI 3](https://github.com/Math13Net/opencv/blob/main/NBJ3_XAI.ipynb)  
    👉 [XAI 4](https://github.com/Math13Net/opencv/blob/main/NBJ4_XAI.ipynb)  
    
-- [Ajouter un notebook]()
 
 ## YOLO
 1. **Use Yolo** [YOLO 8](https://github.com/Math13Net/opencv/blob/main/yolov8.ipynb)
