@@ -43,8 +43,6 @@ Ce document est protégé sous licence **Creative Commons BY-NC-ND 4.0 Internati
 3. **Différences entre CNN, R-CNN et Yolo** [CNN - RCNN - yolo](https://github.com/Math13Net/opencv/blob/main/TP_CNN_R-CNN_YOLO.ipynb)
 4. **Yolo FineTuned Licence Plate via Roboflow** [yolo LP](https://github.com/Math13Net/opencv/blob/main/YOLOv8_Licence_Plate.ipynb)
 
-- [Ajouter un notebook]()
-
 ## Autres IA / ML / DL / Python
 
 1. [Comparatif Empreinte CO₂ RNN vs CNN](https://github/Math13Net/SNT/blob/master/empreinte_carbone_RNN_vs_CNN.ipynb)
