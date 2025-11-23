@@ -24,15 +24,16 @@ Ce document est protégé sous licence **Creative Commons BY-NC-ND 4.0 Internati
 ---
 
 ## OPENCV
-0. **Manipulation Image**  
-   👉 [MI sous cv2](https://github.com/Math13Net/opencv/blob/main/opencv_manip_image.ipynb)  
+0. **Manipulation**  
+   👉 [Image](https://github.com/Math13Net/opencv/blob/main/opencv_manip_image.ipynb)
+   👉 [WebCam](https://github.com/Math13Net/opencv/blob/main/opencv_manip_webcam.ipynb)
 
-1. **Activité Filtres**  
+2. **Activité Filtres**  
    👉 [Filtres sur Image](https://github.com/Math13Net/opencv/blob/main/Filtre_partie_1.ipynb)  
    👉 [Filtres sur WebCam](https://github.com/Math13Net/opencv/blob/main/Filtre_partie_2.ipynb)  
    👉 [Filtres - Mini Projet](https://github.com/Math13Net/opencv/blob/main/Filtre_partie_3.ipynb)
    
-2. **Activité XAI**  
+3. **Activité XAI**  
    👉 [Fiche Installation](https://github.com/Math13Net/opencv/blob/main/%F0%9F%93%98%20XAI.pdf)  
    👉 [XAI 1](https://github.com/Math13Net/opencv/blob/main/NBJ1_XAI.ipynb)  
    👉 [XAI 2](https://github.com/Math13Net/opencv/blob/main/NBJ2_XAI.ipynb)  
