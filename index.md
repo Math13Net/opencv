@@ -25,7 +25,7 @@ Ce document est protégé sous licence **Creative Commons BY-NC-ND 4.0 Internati
 
 ## OPENCV
 0. **Manipulation**  
-   👉 [Image](https://github.com/Math13Net/opencv/blob/main/opencv_manip_image.ipynb)
+   👉 [Image](https://github.com/Math13Net/opencv/blob/main/opencv_manip_image.ipynb)  
    👉 [WebCam](https://github.com/Math13Net/opencv/blob/main/opencv_manip_webcam.ipynb)
 
 2. **Activité Filtres**  
