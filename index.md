@@ -28,7 +28,7 @@ Ce document est protégé sous licence **Creative Commons BY-NC-ND 4.0 Internati
    👉 [Image](https://github.com/Math13Net/opencv/blob/main/opencv_manip_image.ipynb)  
    👉 [WebCam](https://github.com/Math13Net/opencv/blob/main/opencv_manip_webcam.ipynb)
 
-2. **Activité Filtres**  
+2. **Activité Filtres** - [on-line à tester](https://visualize-it.github.io/image_filters/simulation.html)  
    👉 [Filtres sur Image](https://github.com/Math13Net/opencv/blob/main/Filtre_partie_1.ipynb)  
    👉 [Filtres sur WebCam](https://github.com/Math13Net/opencv/blob/main/Filtre_partie_2.ipynb)  
    👉 [Filtres - Mini Projet](https://github.com/Math13Net/opencv/blob/main/Filtre_partie_3.ipynb)
@@ -41,7 +41,7 @@ Ce document est protégé sous licence **Creative Commons BY-NC-ND 4.0 Internati
    👉 [XAI 4](https://github.com/Math13Net/opencv/blob/main/NBJ4_XAI.ipynb)  
    
 
-## YOLO
+## YOLO - [HUB Yolo](https://hub.ultralytics.com/home)
 1. **Use Yolo** [YOLO 8](https://github.com/Math13Net/opencv/blob/main/yolov8.ipynb)
 2. **XAI** [Fiche installation](https://github.com/Math13Net/opencv/blob/main/Installation_YOLOv8_XAI.pdf) - [XAI](https://github.com/Math13Net/opencv/blob/main/XAI_Yolov8n.ipynb)
 3. **Différences entre CNN, R-CNN et Yolo** [CNN - RCNN - yolo](https://github.com/Math13Net/opencv/blob/main/TP_CNN_R-CNN_YOLO.ipynb)
